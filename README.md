@@ -1,9 +1,7 @@
 ---
 # Twitter Sentiment Analysis: Predicting Tweet Sentiments
-
 ## Introduction
 In this project, we'll explore a dataset containing only three key attributes related to Twitter data:
-
 1. **textID**: A unique identifier for each piece of text (tweet).
 2. **text**: The actual content of the tweet.
 3. **sentiment**: The general sentiment expressed in the tweet (e.g., positive, negative, neutral).
